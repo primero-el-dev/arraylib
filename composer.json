@@ -1,0 +1,13 @@
+{
+    "name": "przemo/arraylib",
+    "description": "PHP library to work with arrays inspired by data-oriented programming",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "PrimeroElDev\\Arraylib\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
